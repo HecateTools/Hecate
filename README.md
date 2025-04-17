@@ -1,2 +1,2 @@
 # Hecate
-Hecate - The Best Discord Multi-tool
+Hecate - The Best Discord Multi-tool.
